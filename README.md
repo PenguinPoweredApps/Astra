@@ -45,7 +45,7 @@ Astra is a custom-built GPT assistant designed to help you stay organized, produ
 
 Astra is available as a free-to-use assistant via the Penguin Powered Apps platform. You can use it directly through ChatGPT or integrate it into your own custom apps and workflows.
 
-- Visit the [Astra GPT link](https://chatgpt.com/g/g-67c8477dd7fc819189b08762840761ec-astra) to start chatting.
+- Visit the [Astra GPT link](https://chatgpt.com/g/g-67c8477dd7fc819189b08762840761ec-astra) to start chatting. You will require a ChatGPT account, and you will need to be logged in.
 
 - Add Astra to your sidebar for quick access.
 
